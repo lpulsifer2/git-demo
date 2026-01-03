@@ -13,6 +13,6 @@ Git Going Fast: One Hour Crash Course
 ## Website snew
 Added indes.html to do nothing
 
-yhis is to demonstrate how cool everything is
+this is to demonstrate how cool everything is
 
 
